@@ -1,5 +1,5 @@
 # MÉTODOS AVANZADOS DE ANÁLISIS DE DATOS - MAAD
-Repositorio creado para propósitos académicos por:
+Repositorio creado para propósitos académicos por (Grupo 01):
 
 - [Juanita Piraban Barbosa](<j.piraban188@uniandes.edu.co>)
 - [Lorena Morales Rodríguez](<l.moralesr@uniandes.edu.co>)
@@ -7,7 +7,7 @@ Repositorio creado para propósitos académicos por:
 - [Jaime Humberto Trujillo Perea](<ja.barinas@uniandes.edu.co>)
 - [Alexander Zapata Galindo](<a.zapata12@uniandes.edu.co>)
 
-## Contenido
+## CONTENIDO
 
 ### E2 - Python TSA Analysis
 
