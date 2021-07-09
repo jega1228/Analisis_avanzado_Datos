@@ -6,8 +6,8 @@ Para esta tarea tomamos de Google Trends la popularidad de búsqueda de las pala
 
 | Item | Elemento |
 | --- | --- |
-| DataSet     | Datos de búsqueda en Google Trends de la palabra  [Vicente Fernandez - Cantante](https://trends.google.es/trends/explore?date=today%205-y&geo=CO&q=%2Fm%2F067swc)|
-| Notebook           | [Notebook Grupo 1](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E2%20-%20Python%20TSA%20Analysis.ipynb)|
+| Fuente    | Datos de búsqueda en Google Trends de la palabra  [Vicente Fernandez - Cantante](https://trends.google.es/trends/explore?date=today%205-y&geo=CO&q=%2Fm%2F067swc)|
+| Notebook           | [E2 - Python TSA Analysis](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E2%20-%20Python%20TSA%20Analysis.ipynb)|
 
 
 
@@ -17,6 +17,6 @@ En esta tarea se realizaron los análisis de 4 series de tiempo del dataset [dat
 
 | Item | Elemento |
 | --- | --- |
-| Notebook  | [Notebook Grupo 1](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E3%20-%20ARIMA.ipynb)|
+| Notebook  | [E3 - ARIMA](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E3%20-%20ARIMA.ipynb)|
 
 
