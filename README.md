@@ -13,7 +13,7 @@ Para esta tarea tomamos de Google Trends la popularidad de búsqueda de las pala
 
 ## E3 - ARIMA
 
-En esta tarea se realizó el análisis de 4 series de tiempo del dataset [data_arma.csv] (https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/data_arma.csv) y de la serie [shampoo] (https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/shampoo.csv):
+En esta tarea se realizó el análisis de 4 series de tiempo del dataset [data_arma.csv](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/data_arma.csv) y de la serie [shampoo](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/shampoo.csv):
 
 | Item | Elemento |
 | --- | --- |
