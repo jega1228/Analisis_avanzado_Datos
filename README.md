@@ -1,4 +1,15 @@
-## E2 - Python TSA Analysis
+# MÉTODOS AVANZADOS DE ANÁLISIS DE DATOS - MAAD
+*Repositorio creado para propósitos académicos por:
+
+- Juanita Piraban Barbosa <j.piraban188@uniandes.edu.co>
+- Lorena Morales Rodríguez <l.moralesr@uniandes.edu.co>
+- Alejandro Barinas Guio <jh.trujillo@uniandes.edu.co>
+- Jaime Humberto Trujillo Perea <ja.barinas@uniandes.edu.co>
+- Alexander Zapata Galindo <a.zapata12@uniandes.edu.co>
+
+## Contenido
+
+### E2 - Python TSA Analysis
 
 Para esta tarea tomamos de Google Trends la popularidad de búsqueda de las palabras ***Vicente Fernandez - Cantante*** con corte mensual durante los ultimos 5 años.
 
@@ -11,7 +22,7 @@ Para esta tarea tomamos de Google Trends la popularidad de búsqueda de las pala
 
 
 
-## E3 - ARIMA
+### E3 - ARIMA
 
 En esta tarea se realizaron los análisis de 4 series de tiempo del dataset [data_arma.csv](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/data_arma.csv), así como de la serie [shampoo.csv](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/shampoo.csv):
 
