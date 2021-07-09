@@ -1,11 +1,11 @@
 # MÉTODOS AVANZADOS DE ANÁLISIS DE DATOS - MAAD
 Repositorio creado para propósitos académicos por (Grupo 01):
 
-- Juanita Piraban Barbosa       - <j.piraban188@uniandes.edu.co>
-- Lorena Morales Rodríguez      - <l.moralesr@uniandes.edu.co>
-- Alejandro Barinas Guio        - <jh.trujillo@uniandes.edu.co>
+- Juanita Piraban Barbosa - <j.piraban188@uniandes.edu.co>
+- Lorena Morales Rodríguez - <l.moralesr@uniandes.edu.co>
+- Alejandro Barinas Guio - <jh.trujillo@uniandes.edu.co>
 - Jaime Humberto Trujillo Perea - <ja.barinas@uniandes.edu.co>
-- Alexander Zapata Galindo      - <a.zapata12@uniandes.edu.co>
+- Alexander Zapata Galindo - <a.zapata12@uniandes.edu.co>
 
 ## CONTENIDO
 
