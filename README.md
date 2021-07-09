@@ -6,7 +6,7 @@ Para esta tarea tomamos de Google Trends la popularidad de búsqueda de las pala
 
 | Item | Elemento |
 | --- | --- |
-| DataSet     | Datos de búsqueda en Google Trends de la palabra  [Vicente Fernandez - Cantante](https://trends.google.es/trends/explore?date=today%205-y&geo=CO&q=%2Fm%2F067swc)|
+| Fuente    | Datos de búsqueda en Google Trends de la palabra  [Vicente Fernandez - Cantante](https://trends.google.es/trends/explore?date=today%205-y&geo=CO&q=%2Fm%2F067swc)|
 | Notebook           | [Notebook Grupo 1](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E2%20-%20Python%20TSA%20Analysis.ipynb)|
 
 
