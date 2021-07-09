@@ -7,7 +7,7 @@ Para el analisis de TSA tomamos de Google trends la popularidad de búsqueda de 
 | Item | Elemento |
 | --- | --- |
 | Google Trends | Datos de búsqueda de la palabra   [Vicente Fernandez - Cantante](https://trends.google.es/trends/explore?date=today%205-y&geo=CO&q=%2Fm%2F067swc)|
-| Notebook |   [Notebook](https://nbviewer.jupyter.org/github/jega1228/MAAD_Grupo_1/blob/master/E2%20-%20Python%20TSA%20Analysis.ipynb)|
+| Notebook |   [Notebook](https://mybinder.org/v2/gh/jega1228/MAAD_Grupo_1/56100297ae6ba4f6f04a223d50845c24bb4fc167)|
 
 
 
