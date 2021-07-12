@@ -38,6 +38,9 @@ En esta tarea se realizó el análisis de la series de tiempo del dataset [examp
 | --- | --- |
 | Notebook  | [E5 - Prophet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E5%20-%20Prophet.ipynb)|
 
+
+### ---------------------------------------------
+
 ### P1 - TSA - Analisis de serie de tiempo
 Para el desarrollo del proyecto, se utilizó una serie de tiempo del repositorio de datos del Banco Mundial, la serie utilizada corresponde al número de Personas que utilizan Internet (% de la población).
 
