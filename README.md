@@ -10,7 +10,7 @@ Repositorio creado para propósitos académicos por (Grupo 01):
 
 ## CONTENIDO
 
-### ---------------------------------------------
+### _____________________________________
 
 ### E2 - TSA 
 
@@ -23,7 +23,7 @@ Para esta tarea tomamos de Google Trends la popularidad de búsqueda de las pala
 | Fuente    | Datos de búsqueda en Google Trends de la palabra  [Vicente Fernandez - Cantante](https://trends.google.es/trends/explore?date=today%205-y&geo=CO&q=%2Fm%2F067swc)|
 | Notebook           | [E2 - Python TSA Analysis](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E2%20-%20Python%20TSA%20Analysis.ipynb)|
 
-### ---------------------------------------------
+### _____________________________________
 
 ### E3 - ARIMA
 
@@ -33,7 +33,7 @@ En esta tarea se realizaron los análisis de 4 series de tiempo del dataset [dat
 | --- | --- |
 | Notebook  | [E3 - ARIMA](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E3%20-%20ARIMA.ipynb)|
 
-### ---------------------------------------------
+### _____________________________________
 
 ### E5 - Prophet 
 
@@ -44,7 +44,7 @@ En esta tarea se realizó el análisis de la series de tiempo del dataset [examp
 | Notebook  | [E5 - Prophet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E5%20-%20Prophet.ipynb)|
 
 
-### ---------------------------------------------
+### _____________________________________
 
 ### P1 - TSA - Analisis de serie de tiempo
 Para el desarrollo del proyecto, se utilizó una serie de tiempo del repositorio de datos del Banco Mundial, la serie utilizada corresponde al número de Personas que utilizan Internet (% de la población).
