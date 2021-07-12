@@ -7,7 +7,10 @@ Repositorio creado para propósitos académicos por (Grupo 01):
 - Jaime Humberto Trujillo Perea - <ja.barinas@uniandes.edu.co>
 - Alexander Zapata Galindo - <a.zapata12@uniandes.edu.co>
 
+
 ## CONTENIDO
+
+### ---------------------------------------------
 
 ### E2 - TSA 
 
@@ -20,6 +23,7 @@ Para esta tarea tomamos de Google Trends la popularidad de búsqueda de las pala
 | Fuente    | Datos de búsqueda en Google Trends de la palabra  [Vicente Fernandez - Cantante](https://trends.google.es/trends/explore?date=today%205-y&geo=CO&q=%2Fm%2F067swc)|
 | Notebook           | [E2 - Python TSA Analysis](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E2%20-%20Python%20TSA%20Analysis.ipynb)|
 
+### ---------------------------------------------
 
 ### E3 - ARIMA
 
@@ -29,6 +33,7 @@ En esta tarea se realizaron los análisis de 4 series de tiempo del dataset [dat
 | --- | --- |
 | Notebook  | [E3 - ARIMA](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E3%20-%20ARIMA.ipynb)|
 
+### ---------------------------------------------
 
 ### E5 - Prophet 
 
