@@ -47,8 +47,7 @@ Los usuarios de Internet son personas que han utilizado Internet (desde cualquie
 ### Fuente
 International Telecommunication Union (ITU) World Telecommunication/ICT Indicators Database
 
-| Elemento | 
-| --- |
-| Notebook  |
-| [Serie Tiempo Acceso Internet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/P1_Serie_Acceso_Internet.xlsx):|
-
+| Item | Elemento |
+| --- | --- |
+| Notebook  | |
+| Serie |[Serie Tiempo Acceso Internet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/P1_Serie_Acceso_Internet.xlsx):|
