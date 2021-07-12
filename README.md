@@ -39,7 +39,15 @@ En esta tarea se realizó el análisis de la series de tiempo del dataset [examp
 | Notebook  | [E5 - Prophet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E5%20-%20Prophet.ipynb)|
 
 ### P1 - TSA - Analisis de serie de tiempo
-Para el desarrollo del proyecto se hizo uso En esta tarea se realizó el análisis de la series de tiempo del dataset [example_retal_sales.csv](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/P1- Análisis de series de tiempo Acceso Internet.xls):
+Para el desarrollo del proyecto, se utilizó una serie de tiempo del repositorio de datos del Banco Mundial, la serie utilizada corresponde al número de Personas que utilizan Internet (% de la población).
+
+Contexto agil de la serie según Banco Mundial.
+Los usuarios de Internet son personas que han utilizado Internet (desde cualquier lugar). Internet se puede utilizar a través de una computadora, teléfono móvil, asistente digital personal, máquina de juegos, TV digital, etc.
+
+Fuente
+International Telecommunication Union (ITU) World Telecommunication/ICT Indicators Database
+
+[P1- Análisis de series de tiempo Acceso Internet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/P1- Análisis de series de tiempo Acceso Internet.xls):
 
 
 
