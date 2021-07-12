@@ -49,7 +49,7 @@ International Telecommunication Union (ITU) World Telecommunication/ICT Indicato
 
 [P1- Análisis de series de tiempo Acceso Internet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/P1- Análisis de series de tiempo Acceso Internet.xls):
 
-En esta tarea se realizó el análisis de la series de tiempo del dataset [Serie Tiempo Acceso Internet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/P1- Análisis de series de tiempo Acceso Internet.xlsx):
+[Serie Tiempo Acceso Internet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/P1- Análisis de series de tiempo Acceso Internet.xlsx):
 
 
 
