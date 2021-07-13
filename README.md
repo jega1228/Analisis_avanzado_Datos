@@ -53,6 +53,7 @@ Los usuarios de Internet son personas que han utilizado Internet (desde cualquie
 
 ### Fuente
 International Telecommunication Union (ITU) World Telecommunication/ICT Indicators Database
+https://datos.bancomundial.org/indicador/IT.NET.USER.ZS?locations=CO
 
 | Item | Elemento |
 | --- | --- |
