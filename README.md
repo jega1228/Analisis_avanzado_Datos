@@ -58,4 +58,5 @@ International Telecommunication Union (ITU) World Telecommunication/ICT Indicato
 | Item | Elemento |
 | --- | --- |
 | Serie |[Serie Tiempo Acceso Internet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/P1_Serie_Acceso_Internet.xlsx)|
-| Notebook  | [P1 - Serie Tiempo](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20Python%20TSA%20Analysis.ipynb)|
+| Notebook  | [P1 - Serie Tiempo](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20TSA%20Analysis.ipynb)|
+
