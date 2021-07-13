@@ -46,7 +46,7 @@ En esta tarea se realizó el análisis de la series de tiempo del dataset [examp
 
 ### _____________________________________________________________________
 
-### P1 - Acceso a Internet en Colombia
+### P1 - TSA - Acceso a Internet en Colombia
 Para el desarrollo del proyecto, se utilizó una serie de tiempo del repositorio de datos del Banco Mundial correspondiente al número de Personas que utilizan Internet (% de la población).
 
 Los usuarios de Internet son personas que han utilizado Internet (desde cualquier lugar; es decir, a través de una computadora, teléfono móvil, asistente digital personal, máquina de juegos, TV digital, etc).
