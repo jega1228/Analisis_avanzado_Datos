@@ -73,3 +73,4 @@ https://colombiatic.mintic.gov.co/
 | Serie trimestral |[Acceso Internet en Colombia](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/P1_Serie_Acceso_Internet_Trim.xlsx)|
 | Notebook  | [P1 - Acceso Internet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20Acceso%20%20Internet%20Trim.ipynb)|
 
+
