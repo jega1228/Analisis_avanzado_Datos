@@ -44,6 +44,14 @@ En esta tarea se realizó el análisis de la series de tiempo del dataset [examp
 | Notebook  | [E5 - Prophet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E5%20-%20Prophet.ipynb)|
 
 
+### E7 - DT & Ensembles 
+
+
+| Item | Elemento |
+| --- | --- |
+| Notebook  | [E7 - DT & Ensembles](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E5%20-%20Prophet.ipynb)|
+
+
 ### _____________________________________________________________________
 
 ### P1 - TSA - Internet en Colombia
