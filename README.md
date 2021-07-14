@@ -46,17 +46,30 @@ En esta tarea se realizó el análisis de la series de tiempo del dataset [examp
 
 ### _____________________________________________________________________
 
-### P1 - TSA - Acceso a Internet en Colombia
+### P1 - TSA - Internet en Colombia
+
+### Datos anuales
 Para el desarrollo del proyecto, se utilizó la serie de tiempo del repositorio de datos del Banco Mundial para Colombia, correspondiente al número de personas que utilizan Internet (% de la población).
 
 Los usuarios de Internet son personas que han utilizado Internet (desde cualquier lugar) en los últimos tres meses. Internet puede ser usado a través de una computadora, teléfono móvil, asistente digital personal, máquina de juegos, TV digital, etc.
 
-### Fuente
-International Telecommunication Union (ITU) World Telecommunication/ICT Indicators Database
+Fuente: International Telecommunication Union (ITU) World Telecommunication/ICT Indicators Database
 https://datos.bancomundial.org/indicador/IT.NET.USER.ZS?locations=CO
+
+### Datos trimestrales
+Para el desarrollo del proyecto, se utilizó la serie de tiempo del porcentaje de penetración de Internet dedicado en Colombia (% de la población).
+
+Número de suscriptores con acceso a Internet, fijo y móvil, según los datos reportados por los proveedores al último día de cada trimestre como porcentaje de la población basados en las proyecciones de población del DANE.
+
+Fuente: Ministerio de las TIC
+https://colombiatic.mintic.gov.co/
+
 
 | Item | Elemento |
 | --- | --- |
-| Serie |[Acceso Internet en Colombia](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/P1_Serie_Acceso_Internet.xlsx)|
-| Notebook  | [P1 - Acceso Internet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20Acceso%20Internet.ipynb)|
+| Serie anual |[Uso Internet en Colombia](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/P1_Serie_Uso_Internet.xlsx)|
+| Notebook  | [P1 - Uso Internet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20Uso%20Internet.ipynb)|
+| --- | --- |
+| Serie trimestral |[Acceso Internet en Colombia](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/P1_Serie_Acceso_Internet_Trim.xlsx)|
+| Notebook  | [P1 - Acceso Internet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20Acceso%20Internet%20Trim.ipynb)|
 
