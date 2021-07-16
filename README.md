@@ -51,7 +51,18 @@ En esta tarea se realizó el análisis de la series de tiempo del dataset [examp
 
 | Item | Elemento |
 | --- | --- |
-| Notebook  | [E7-DecisionTrees_Bagging.ipynb](https://github.com/jega1228/MAAD_Grupo_1/blob/d8540afd039128aadb1a3a4865d213214f0648b9/E7-DecisionTrees_Bagging.ipynb)|
+| Notebook  | [E7-DecisionTrees_Bagging](https://github.com/jega1228/MAAD_Grupo_1/blob/d8540afd039128aadb1a3a4865d213214f0648b9/E7-DecisionTrees_Bagging.ipynb)|
+
+### _____________________________________________________________________
+
+### E9-RandomForests_Boosting 
+
+En esta tarea se realizó el análisis de la series de tiempo del dataset [example_retal_sales.csv](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/example_retail_sales.csv):
+
+| Item | Elemento |
+| --- | --- |
+| Notebook  | [E9-RandomForests_Boosting](https://github.com/jega1228/MAAD_Grupo_1/blob/1d9d6dae268b9e6d9b88a89b6f82a84aad083a55/E9-RandomForests_Boosting.ipynb)|
+
 
 
 ### _____________________________________________________________________
