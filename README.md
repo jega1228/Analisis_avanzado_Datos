@@ -43,6 +43,16 @@ En esta tarea se realizó el análisis de la series de tiempo del dataset [examp
 | --- | --- |
 | Notebook  | [E5 - Prophet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E5%20-%20Prophet.ipynb)|
 
+### _____________________________________________________________________
+
+### E7 - Prophet 
+
+En esta tarea se realizó el análisis de la series de tiempo del dataset [example_retal_sales.csv](https://github.com/jega1228/MAAD_Grupo_1/blob/master/DataSet/example_retail_sales.csv):
+
+| Item | Elemento |
+| --- | --- |
+| Notebook  | [E7 - Prophet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E5%20-%20Prophet.ipynb)|
+
 
 ### _____________________________________________________________________
 
