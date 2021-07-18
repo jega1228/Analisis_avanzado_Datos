@@ -43,6 +43,23 @@ En esta tarea se realizó el análisis de la series de tiempo del dataset [examp
 | --- | --- |
 | Notebook  | [E5 - Prophet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E5%20-%20Prophet.ipynb)|
 
+### _____________________________________________________________________
+
+### E7-DecisionTrees_Bagging.ipynb 
+
+
+| Item | Elemento |
+| --- | --- |
+| Notebook  | [E7-DecisionTrees_Bagging](https://github.com/jega1228/MAAD_Grupo_1/blob/d8540afd039128aadb1a3a4865d213214f0648b9/E7-DecisionTrees_Bagging.ipynb)|
+
+### _____________________________________________________________________
+
+### E9-RandomForests_Boosting 
+
+| Item | Elemento |
+| --- | --- |
+| Notebook  | [E9-RandomForests_Boosting](https://github.com/jega1228/MAAD_Grupo_1/blob/1d9d6dae268b9e6d9b88a89b6f82a84aad083a55/E9-RandomForests_Boosting.ipynb)|
+
 
 ### _____________________________________________________________________
 
