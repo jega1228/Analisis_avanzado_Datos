@@ -50,7 +50,7 @@ En esta tarea se realizó el análisis de la series de tiempo del dataset [examp
 
 | Item | Elemento |
 | --- | --- |
-| Notebook  | [E7-DecisionTrees_Bagging](https://github.com/jega1228/MAAD_Grupo_1/blob/d8540afd039128aadb1a3a4865d213214f0648b9/E7-DecisionTrees_Bagging.ipynb)|
+| Notebook  | [E7-DecisionTrees_Bagging](https://github.com/jega1228/MAAD_Grupo_1/blob/f2535f51f62ece9dbb155ce6297790c217575a66/E7-DecisionTrees_Bagging.ipynb)|
 
 ### _____________________________________________________________________
 
