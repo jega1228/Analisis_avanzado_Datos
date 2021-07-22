@@ -79,3 +79,14 @@ https://colombiatic.mintic.gov.co/
 | Notebook  | [P1 - Acceso Internet](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20Acceso%20%20Internet%20Trim.ipynb)|
 
 
+### _____________________________________________________________________
+
+### P2 - API Precio Vehículos Usados
+
+Para el desarrollo del proyecto, se utilizó la base de datos de precios de venta de TrueCar.com publicada en Kaggle. 
+
+| Item  | Elemento |
+| --- | --- |
+| Fuente |[Kaggle][https://www.kaggle.com/jpayne/852k-used-car-listings]|
+| Notebook  | [P2 - Precio Vehículos Usados](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P2%20-%20Precio%20%20Vehiculos%20Usados.ipynb)|
+
