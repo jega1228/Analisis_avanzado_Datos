@@ -81,12 +81,14 @@ https://colombiatic.mintic.gov.co/
 
 ### _____________________________________________________________________
 
-### P2 - API Precio Vehículos Usados
+### P2 - API Proyección Precio Vehículos Usados
 
 Para el desarrollo del proyecto, se utilizó la base de datos de precios de venta de TrueCar.com publicada en Kaggle. 
 
+Fuente: Kaggle 
+https://www.kaggle.com/jpayne/852k-used-car-listings
+
 | Item  | Elemento |
 | --- | --- |
-| Fuente |Kaggle - https://www.kaggle.com/jpayne/852k-used-car-listings |
 | Notebook  | [P2 - Precio Vehículos Usados](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P2%20-%20API%20Precio%20Vehiculos%20Usados.ipynb)|
 
