@@ -87,6 +87,6 @@ Para el desarrollo del proyecto, se utilizó la base de datos de precios de vent
 
 | Item  | Elemento |
 | --- | --- |
-| Fuente |[Kaggle][https://www.kaggle.com/jpayne/852k-used-car-listings]|
-| Notebook  | [P2 - Precio Vehículos Usados](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P2%20-%20Precio%20%20Vehiculos%20Usados.ipynb)|
+| Fuente |Kaggle - https://www.kaggle.com/jpayne/852k-used-car-listings |
+| Notebook  | [P2 - Precio Vehículos Usados](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P2%20-%20API%20Precio%20Vehiculos%20Usados.ipynb)|
 
