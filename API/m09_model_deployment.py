@@ -7,9 +7,9 @@ import os
 
 def predict_price(url):
 
-    #clf =  pickle.load(open(os.path.dirname(__file__) + '/phishing_clf.pkl', 'rb'))
-    #clf =  pickle.load(open(os.path.dirname(__file__) + '/API' +'/phishing_clf.pkl', 'rb'))
-    #clf = pickle.load(open('./phishing_clf.pkl', 'rb'))
+    # clf =  pickle.load(open(os.path.dirname(__file__) + '/phishing_clf.pkl', 'rb'))
+    # clf =  pickle.load(open(os.path.dirname(__file__) + '/API' +'/phishing_clf.pkl', 'rb'))
+    # clf = pickle.load(open('./phishing_clf.pkl', 'rb'))
     clf = pickle.load(open('phishing_clf.pkl', 'rb'))
 
     url_ = pd.DataFrame([url], columns=['url'])
