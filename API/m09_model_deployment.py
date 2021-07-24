@@ -25,6 +25,7 @@ def predict_proba(url):
 
     # Make prediction
     p1 = clf.predict(url_)
+    p1 = str(p1)
 
     return p1
 
