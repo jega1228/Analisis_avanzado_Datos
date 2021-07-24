@@ -42,5 +42,5 @@ if __name__ == "__main__":
         p1 = predict_proba(url)
         
         print(url)
-        print('Probability of Phishing: ', p1)
+        print('Price of Car: ', p1)
         
