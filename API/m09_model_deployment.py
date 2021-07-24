@@ -5,11 +5,11 @@ import pickle
 import sys
 import os
 
-def predict_proba(url):
+def predict_price(url):
 
     #clf =  pickle.load(open(os.path.dirname(__file__) + '/phishing_clf.pkl', 'rb'))
-    clf =  pickle.load(open(os.path.dirname(__file__) + '/API' +'/phishing_clf.pkl', 'rb'))
-    #clf = pickle.load(open('./phishing_clf.pkl', 'rb'))
+    #clf =  pickle.load(open(os.path.dirname(__file__) + '/API' +'/phishing_clf.pkl', 'rb'))
+    clf = pickle.load(open('./phishing_clf.pkl', 'rb'))
 
     url_ = pd.DataFrame([url], columns=['url'])
   
@@ -40,7 +40,7 @@ if __name__ == "__main__":
 
         url = sys.argv[1]
 
-        p1 = predict_proba(url)
+        p1 = predict_price(url)
         
         print(url)
         print('Price of Car: ', p1)
