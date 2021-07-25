@@ -18,14 +18,14 @@ def PRICE():
     return """
     <h1>Forecast Price of Car</h1>
     <p> </p>
-    <p>Inputs to forecats:</p>
-    <p>- Year:%s </p>
-    <p>- Mileage:%s </p>
-    <p>- State:%s </p>
-    <p>- Make:%s </p>
-    <p>- Model:%s </p>
+    <p>Inputs:</p>
+    <p>- Year:    %s </p>
+    <p>- Mileage: %s </p>
+    <p>- State:   %s </p>
+    <p>- Make:    %s </p>
+    <p>- Model:   %s </p>
     <p> </p>
-    <p>Results:%s </p>
+    <p>Results:   %s </p>
     """%(year,mileage,state,make,model,forecast)
 
 #   return {
