@@ -1,23 +1,44 @@
 #!/usr/bin/python
-from flask import Flask, request, render_template
+from flask import Flask, request
 from m09_model_deployment import predict_price
 
 app = Flask(__name__)
 
 @app.route('/form-example', methods=['GET', 'POST'])
 def form_example():
-    return '''
+    if request.method == 'POST':
+        year = request.form.get('year')
+        mileage = request.form.get('mileage')
+        state = request.form.get('state')
+        make = request.form.get('make')
+        model = request.form.get('model')
+        
+        forecast = predict_price(year,mileage,state,make,model)
     
-              <h1>Forecast Price of Car</h1>
-              <p> </p>    
-              <form method="POST">
-                  <div><label>Year: <input type="text" name="year"></label></div>
-                  <div><label>Mileage: <input type="text" name="mileage"></label></div>
-                  <div><label>State: <input type="text" name="state"></label></div>
-                  <div><label>Make: <input type="text" name="make"></label></div>
-                  <div><label>Model: <input type="text" name="model"></label></div>
-                  <input type="submit" value="Submit">
-              </form>'''
+        return """
+            <h1>Forecast Price of Car</h1>
+            <p> </p>
+            <p>Inputs:</p>
+            <p>- Year:    %s </p>
+            <p>- Mileage: %s </p>
+            <p>- State:   %s </p>
+            <p>- Make:    %s </p>
+            <p>- Model:   %s </p>
+            <p> </p>
+            <p>Results:   %s </p>
+            """%(year,mileage,state,make,model,forecast)
+    
+    return """
+          <h1>Forecast Price of Car</h1>
+          <p> </p>    
+          <form method="POST">
+              <div><label>Year: <input type="text" name="year"></label></div>
+              <div><label>Mileage: <input type="text" name="mileage"></label></div>
+              <div><label>State: <input type="text" name="state"></label></div>
+              <div><label>Make: <input type="text" name="make"></label></div>
+              <div><label>Model: <input type="text" name="model"></label></div>
+              <input type="submit" value="Submit">
+          </form>"""
 
 
 @app.route('/predict', methods=['GET'])
