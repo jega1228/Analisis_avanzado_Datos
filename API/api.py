@@ -8,11 +8,11 @@ app = Flask(__name__)
 def PRICEpredict():
     return {
          
-        "Year" : request.args.get('year'),
-        "Mileage": request.args.get ('mileage'),
-        "State": request.args.get('state'),
-        "Make": request.args.get('make'),
-        "Model": request.args.get('model'),
+#        "Year" : request.args.get('year'),
+#        "Mileage": request.args.get ('mileage'),
+#        "State": request.args.get('state'),
+#        "Make": request.args.get('make'),
+#        "Model": request.args.get('model'),
         
         "Forecats Price of Car": predict_price(request.args.get('year','mileage','state','make','model'))
         }, 200
