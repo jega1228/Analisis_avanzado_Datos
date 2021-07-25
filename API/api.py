@@ -1,4 +1,5 @@
 #!/usr/bin/python
+from maths import truncate
 from flask import Flask, request
 from m09_model_deployment import predict_price
 
