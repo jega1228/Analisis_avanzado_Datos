@@ -12,17 +12,21 @@ def PRICE():
     state = request.args.get('state')
     make = request.args.get('make')
     model = request.args.get('model')
+    
+    forecast = predict_price(year,mileage,state,make,model)
 
     return """
-    <p>Forecast Price of Car</p>
+    <h1>Forecast Price of Car</h1>
     <p> </p>
-    <p>Inputs to forecastpredict:</p>
-    <p>Year:%s </p>
-    <p>Mileage:%s </p>
-    <p>State:%s </p>
-    <p>Make:%s </p>
-    <p>Model:%s </p>
-    """%(year,mileage,state,make,model)
+    <p>Inputs to forecats:</p>
+    <p>- Year:%s </p>
+    <p>- Mileage:%s </p>
+    <p>- State:%s </p>
+    <p>- Make:%s </p>
+    <p>- Model:%s </p>
+    <p> </p>
+    <p>Results:%s </p>
+    """%(year,mileage,state,make,model,forecast)
 
 #   return {
 #        
