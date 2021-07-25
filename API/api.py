@@ -21,7 +21,7 @@ def PRICEpredict():
 #        "Make": request.args.get('make'),
 #        "Model": request.args.get('model'),
         
-        "Forecats Price of Car": predict_price(year,mileage,state,make,model))
+        "Forecats Price of Car": predict_price(year,mileage,state,make,model)
         }, 200
 
 #@app.route('/hola', methods=['GET'])
