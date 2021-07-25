@@ -26,11 +26,9 @@ def form_example():
             <p>- Model:   %s </p>
             <p> </p>
             <p>Results:   %s </p>
-            
-            <button onclick="goBack()">Go Back</button>
-            <script>
-            function goBack() {window.history.back();}
-            </script>
+ 
+            <a href="/form-example">Back</a>
+
             """%(year,mileage,state,make,model,forecast)
     
     return """
@@ -72,3 +70,8 @@ def PRICE():
 if __name__ == '__main__':
     app.run(debug=True, use_reloader=False, host='0.0.0.0', port=8888)
 
+    
+#            <button onclick="goBack()">Go Back</button>
+#            <script>
+#            function goBack() {window.history.back();}
+#            </script>
