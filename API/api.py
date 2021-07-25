@@ -45,7 +45,6 @@ def form_example():
               <input type="submit" value="Submit">
           </form>"""
 
-
 @app.route('/predict', methods=['GET'])
 def PRICE():
    
@@ -69,40 +68,6 @@ def PRICE():
     <p> </p>
     <p>Results:   %s </p>
     """%(year,mileage,state,make,model,forecast)
-
-
-
-
-#   return {
-#        
-#       "Year" : year,
-#       "Mileage": mileage,
-#       "State": state,
-#       "Make": make,
-#       "Model": model,
-#       
-#       "Forecast Price of Car": predict_price(year,mileage,state,make,model)
-#       }, 200
-
-#@app.route('/')
-#def home():
-#    
-#    return render_template('home.html')
-#
-##@app.route('/hola', methods=['GET'])
-#def hola():
-#    return {
-#         "result": "todo bien"
-#        }, 200
-
-
-#@app.route('/nombre', methods=['GET'])
-#def nombre():
-#    return {
-#         "nombre": request.args.get('NOMBRE'),
-#         "apellido": request.args.get('APELLIDO')
-#        }, 200
-
 
 if __name__ == '__main__':
     app.run(debug=True, use_reloader=False, host='0.0.0.0', port=8888)
