@@ -26,6 +26,11 @@ def form_example():
             <p>- Model:   %s </p>
             <p> </p>
             <p>Results:   %s </p>
+            
+            <button onclick="goBack()">Go Back</button>
+            <script>
+            function goBack() {window.history.back();}
+            </script>
             """%(year,mileage,state,make,model,forecast)
     
     return """
