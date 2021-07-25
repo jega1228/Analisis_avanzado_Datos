@@ -5,7 +5,7 @@ from m09_model_deployment import predict_price
 app = Flask(__name__)
 
 @app.route('/predict', methods=['GET'])
-def PRICEpredict():
+def PRICE():
    
     year = request.args.get('year')
     mileage = request.args.get ('mileage')
@@ -24,13 +24,19 @@ def PRICEpredict():
 #       "Forecats Price of Car": predict_price(year,mileage,state,make,model)
 #       }, 200
 
+@app.route("/")
+def homepage():
+    return """
+    <p>Hello</p>
+    <p>world</p>
+    """
 
-@app.route('/')
-def home():
-    
-    return render_template('home.html')
-
-#@app.route('/hola', methods=['GET'])
+#@app.route('/')
+#def home():
+#    
+#    return render_template('home.html')
+#
+##@app.route('/hola', methods=['GET'])
 #def hola():
 #    return {
 #         "result": "todo bien"
