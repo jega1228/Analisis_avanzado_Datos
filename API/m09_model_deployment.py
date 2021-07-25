@@ -39,7 +39,7 @@ def predict_price(year,mileage,state,make,model):
 
     # make prediction
     p1 = clf.predict(forecast)
-    p1 = str(p1)
+    p1 = str(round(p1,1))
 
     return p1
 
@@ -57,7 +57,7 @@ if __name__ == "__main__":
         make = sys.argv[4]
         model = sys.argv[5]
 
-        p1 = round(predict_price(year,mileage,state,make,model),1)
+        p1 = predict_price(year,mileage,state,make,model)
         
         print('Year: ',year)
         print('Mileage: ',mileage)
