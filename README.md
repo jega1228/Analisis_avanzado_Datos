@@ -11,6 +11,8 @@ Repositorio creado para propósitos académicos por (Grupo 01):
 ## CONTENIDO
 
 ### _____________________________________________________________________
+### EXERCISES
+### _____________________________________________________________________
 
 ### E2 - TSA 
 
@@ -45,7 +47,7 @@ En esta tarea se realizó el análisis de la series de tiempo del dataset [examp
 
 ### _____________________________________________________________________
 
-### E7-DecisionTrees_Bagging.ipynb 
+### E7-Decision Trees / Bagging.ipynb 
 
 
 | Item | Elemento |
@@ -54,13 +56,24 @@ En esta tarea se realizó el análisis de la series de tiempo del dataset [examp
 
 ### _____________________________________________________________________
 
-### E9-RandomForests_Boosting 
+### E9-Random Forests / Boosting 
 
 | Item | Elemento |
 | --- | --- |
 | Notebook  | [E9-RandomForests_Boosting](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E9-RandomForests_Boosting.ipynb)|
 
+### _____________________________________________________________________
 
+### E13-Natural Language Processing 
+
+| Item | Elemento |
+| --- | --- |
+| Notebook  | [E13-Natural Language Processing](https://github.com/jega1228/MAAD_Grupo_1/blob/master/E13%20-%20ClassHomeworksAnalysis.ipynb)|
+
+
+
+### _____________________________________________________________________
+### PROJECTS
 ### _____________________________________________________________________
 
 ### P1 - TSA - Internet en Colombia
