@@ -27,7 +27,7 @@ def form_example():
             <p> </p>
             <p>Results:   %s </p>
  
-            <a href="/form-example">Back</a>
+            <button onclick="goBack()"><a href="/form-example">Back</a></button>
 
             """%(year,mileage,state,make,model,forecast)
     
