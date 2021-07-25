@@ -12,21 +12,8 @@ def PRICEpredict():
     state = request.args.get('state')
     make = request.args.get('make')
     model = request.args.get('model')
-
-    html = """<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>First Flask App</title>
-</head>
-<body>
-    <p>
-        Hello!! Testing if it works on web! :p
-    </p>
-</body>
-</html>"""
     
-    return render_template(html)
+    return render_template('home.html')
 
 #   return {
 #        
