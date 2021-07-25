@@ -70,8 +70,4 @@ def PRICE():
 if __name__ == '__main__':
     app.run(debug=True, use_reloader=False, host='0.0.0.0', port=8888)
 
-    
-#            <button onclick="goBack()">Go Back</button>
-#            <script>
-#            function goBack() {window.history.back();}
-#            </script>
+
