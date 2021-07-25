@@ -7,7 +7,13 @@ app = Flask(__name__)
 @app.route('/predict', methods=['GET'])
 def URLpredict():
     return {
-         "Estimated Price of Car": predict_price(request.args.get('year','mileage','state','make','model'))
+         
+        "Year:" : request.args.get(year),
+        "Mileage:" mileage,
+        "State:" state,
+        "Make:" make,
+        "Model:" model,
+        "Forecats Price of Car": predict_price(request.args.get('year','mileage','state','make','model'))
         }, 200
 
 #@app.route('/hola', methods=['GET'])
