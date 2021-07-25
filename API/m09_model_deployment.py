@@ -12,7 +12,7 @@ def predict_price(year,mileage,state,make,model):
     # clf =  pickle.load(open(os.path.dirname(__file__) + '/API' +'/phishing_clf.pkl', 'rb'))
     # clf = pickle.load(open('./phishing_clf.pkl', 'rb'))"""
         
-    clf = pickle.load(open('API/phishing_clf.pkl', 'rb'))
+    clf = pickle.load(open(os.path.dirname(__file__) + '/phishing_clf.pkl', 'rb'))
     #clf = pickle.load(open('./phishing_clf.pkl', 'rb'))
 
     list_part_a = ['Year', 'Mileage', 'State_ AL', 'State_ AR', 'State_ AZ', 'State_ CA', 'State_ CO', 'State_ CT', 'State_ DC', 'State_ DE', 'State_ FL', 'State_ GA', 'State_ HI', 'State_ IA', 'State_ ID', 'State_ IL', 'State_ IN', 'State_ KS', 'State_ KY', 'State_ LA', 'State_ MA', 'State_ MD', 'State_ ME', 'State_ MI', 'State_ MN', 'State_ MO', 'State_ MS', 'State_ MT', 'State_ NC', 'State_ ND', 'State_ NE', 'State_ NH', 'State_ NJ', 'State_ NM', 'State_ NV', 'State_ NY', 'State_ OH', 'State_ OK', 'State_ OR', 'State_ PA', 'State_ RI', 'State_ SC', 'State_ SD', 'State_ TN', 'State_ TX', 'State_ UT', 'State_ VA', 'State_ VT', 'State_ WA', 'State_ WI', 'State_ WV', 'State_ WY', 'Make_Audi', 'Make_BMW', 'Make_Bentley', 'Make_Buick', 'Make_Cadillac', 'Make_Chevrolet', 'Make_Chrysler', 'Make_Dodge', 'Make_FIAT', 'Make_Ford', 'Make_Freightliner', 'Make_GMC', 'Make_Honda', 'Make_Hyundai', 'Make_INFINITI', 'Make_Jaguar', 'Make_Jeep', 'Make_Kia', 'Make_Land', 'Make_Lexus', 'Make_Lincoln', 'Make_MINI', 'Make_Mazda', 'Make_Mercedes-Benz', 'Make_Mercury', 'Make_Mitsubishi', 'Make_Nissan', 'Make_Pontiac', 'Make_Porsche', 'Make_Ram', 'Make_Scion', 'Make_Subaru', 'Make_Suzuki', 'Make_Tesla', 'Make_Toyota', 'Make_Volkswagen', 'Make_Volvo']
