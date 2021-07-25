@@ -4,6 +4,16 @@ from m09_model_deployment import predict_price
 
 app = Flask(__name__)
 
+@app.route('/form-example', methods=['GET', 'POST'])
+def form_example():
+    return '''
+              <form method="POST">
+                  <div><label>Language: <input type="text" name="language"></label></div>
+                  <div><label>Framework: <input type="text" name="framework"></label></div>
+                  <input type="submit" value="Submit">
+              </form>'''
+
+
 @app.route('/predict', methods=['GET'])
 def PRICE():
    
@@ -28,6 +38,9 @@ def PRICE():
     <p>Results:   %s </p>
     """%(year,mileage,state,make,model,forecast)
 
+
+
+
 #   return {
 #        
 #       "Year" : year,
@@ -38,13 +51,6 @@ def PRICE():
 #       
 #       "Forecast Price of Car": predict_price(year,mileage,state,make,model)
 #       }, 200
-
-@app.route("/")
-def homepage():
-    return """
-    <p>Hello</p>
-    <p>world</p>
-    """
 
 #@app.route('/')
 #def home():
