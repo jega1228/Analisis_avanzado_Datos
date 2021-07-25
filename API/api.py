@@ -13,8 +13,6 @@ def PRICEpredict():
     make = request.args.get('make')
     model = request.args.get('model')
     
-    return render_template('home.html')
-
 #   return {
 #        
 #       "Year" : year,
@@ -25,6 +23,12 @@ def PRICEpredict():
 #       
 #       "Forecats Price of Car": predict_price(year,mileage,state,make,model)
 #       }, 200
+
+
+@app.route('/')
+def home():
+    
+    return render_template('home.html')
 
 #@app.route('/hola', methods=['GET'])
 #def hola():
