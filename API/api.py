@@ -13,7 +13,7 @@ def form_example():
         make = request.form.get('make')
         model = request.form.get('model')
         
-        forecast = round(predict_price(year,mileage,state,make,model),1)
+        forecast = predict_price(year,mileage,state,make,model)
     
         return """
             <h1>Forecast Price of Car</h1>
