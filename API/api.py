@@ -1,5 +1,5 @@
 #!/usr/bin/python
-from flask import Flask, request
+from flask import Flask, request, render_template
 from m09_model_deployment import predict_price
 
 app = Flask(__name__)
@@ -13,16 +13,31 @@ def PRICEpredict():
     make = request.args.get('make')
     model = request.args.get('model')
 
-    return {
-         
-        "Year" : year,
-        "Mileage": mileage,
-        "State": state,
-        "Make": make,
-        "Model": model,
-        
-        "Forecats Price of Car": predict_price(year,mileage,state,make,model)
-        }, 200
+    html = """<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>First Flask App</title>
+</head>
+<body>
+    <p>
+        Hello!! Testing if it works on web! :p
+    </p>
+</body>
+</html>"""
+    
+    return render_template(html)
+
+#   return {
+#        
+#       "Year" : year,
+#       "Mileage": mileage,
+#       "State": state,
+#       "Make": make,
+#       "Model": model,
+#       
+#       "Forecats Price of Car": predict_price(year,mileage,state,make,model)
+#       }, 200
 
 #@app.route('/hola', methods=['GET'])
 #def hola():
