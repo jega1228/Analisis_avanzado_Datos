@@ -57,7 +57,7 @@ if __name__ == "__main__":
         make = sys.argv[4]
         model = sys.argv[5]
 
-        p1 = predict_price(year,mileage,state,make,model)
+        p1 = round(predict_price(year,mileage,state,make,model),1)
         
         print('Year: ',year)
         print('Mileage: ',mileage)
