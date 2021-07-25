@@ -7,9 +7,15 @@ app = Flask(__name__)
 @app.route('/form-example', methods=['GET', 'POST'])
 def form_example():
     return '''
+    
+              <h1>Forecast Price of Car</h1>
+              <p> </p>    
               <form method="POST">
-                  <div><label>Language: <input type="text" name="language"></label></div>
-                  <div><label>Framework: <input type="text" name="framework"></label></div>
+                  <div><label>Year: <input type="text" name="year"></label></div>
+                  <div><label>Mileage: <input type="text" name="mileage"></label></div>
+                  <div><label>State: <input type="text" name="state"></label></div>
+                  <div><label>Make: <input type="text" name="make"></label></div>
+                  <div><label>Model: <input type="text" name="model"></label></div>
                   <input type="submit" value="Submit">
               </form>'''
 
