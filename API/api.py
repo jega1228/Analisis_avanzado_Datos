@@ -6,6 +6,13 @@ app = Flask(__name__)
 
 @app.route('/predict', methods=['GET'])
 def PRICEpredict():
+   
+    year = request.args.get('year')
+    mileage = request.args.get ('mileage')
+    state = request.args.get('state')
+    make = request.args.get('make')
+    model = request.args.get('model')
+
     return {
          
 #        "Year" : request.args.get('year'),
@@ -14,7 +21,7 @@ def PRICEpredict():
 #        "Make": request.args.get('make'),
 #        "Model": request.args.get('model'),
         
-        "Forecats Price of Car": predict_price(request.args.get('year','mileage','state','make','model'))
+        "Forecats Price of Car": predict_price(year,mileage,state,make,model))
         }, 200
 
 #@app.route('/hola', methods=['GET'])
