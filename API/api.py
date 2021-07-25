@@ -1,5 +1,5 @@
 #!/usr/bin/python
-from maths import truncate
+from math.trunc
 from flask import Flask, request
 from m09_model_deployment import predict_price
 
@@ -14,7 +14,7 @@ def form_example():
         make = request.form.get('make')
         model = request.form.get('model')
         
-        forecast = truncate(predict_price(year,mileage,state,make,model),1)
+        forecast = math.trunc(predict_price(year,mileage,state,make,model),1)
     
         return """
             <h1>Forecast Price of Car</h1>
