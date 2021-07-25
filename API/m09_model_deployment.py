@@ -12,8 +12,8 @@ def predict_price(year,mileage,state,make,model):
     # clf =  pickle.load(open(os.path.dirname(__file__) + '/API' +'/phishing_clf.pkl', 'rb'))
     # clf = pickle.load(open('./phishing_clf.pkl', 'rb'))"""
         
-    #clf = pickle.load(open('API/phishing_clf.pkl', 'rb'))
-    clf = pickle.load(open('./phishing_clf.pkl', 'rb'))
+    clf = pickle.load(open('API/phishing_clf.pkl', 'rb'))
+    #clf = pickle.load(open('./phishing_clf.pkl', 'rb'))
 
     list_part_a = ['Make_Audi','Make_BMW','Make_Bentley','Make_Buick','Make_Cadillac','Make_Chevrolet','Make_Chrysler','Make_Dodge','Make_FIAT','Make_Ford','Make_Freightliner','Make_GMC','Make_Honda','Make_Hyundai','Make_INFINITI','Make_Jaguar','Make_Jeep','Make_Kia','Make_Land','Make_Lexus','Make_Lincoln','Make_MINI','Make_Mazda','Make_Mercedes-Benz','Make_Mercury','Make_Mitsubishi','Make_Nissan','Make_Pontiac','Make_Porsche','Make_Ram','Make_Scion','Make_Subaru','Make_Suzuki','Make_Tesla','Make_Toyota','Make_Volkswagen','Make_Volvo','Mileage']
     
@@ -28,7 +28,8 @@ def predict_price(year,mileage,state,make,model):
     """list_ = ['Year','Mileage','Model_Silverado','Make_GMC','Model_Super','Make_Land','Make_Lexus','Model_F-1504WD','Make_BMW','Make_Mercedes-Benz','Model_Wrangler','Model_Tahoe4WD','Model_Suburban4WD','Model_Escalade','Make_Kia','Make_Ram','Model_Suburban2WD','Model_Tundra','Model_Tahoe2WD','Model_TahoeLT','Model_TerrainFWD','Model_Sierra','Model_FusionSE','Model_CorvetteCoupe','Make_Ford','Model_Grand','Model_FocusSE']"""
 
     # Create features
-    estimacion = pd.DataFrame(np.zeros((1,613)),columns=list_)       
+    estimacion = pd.DataFrame(np.zeros((1,613)),columns=list_)  
+    
     estimacion['Year'] = year
     estimacion['Mileage'] = mileage    
     state = 'State_ ' + state
