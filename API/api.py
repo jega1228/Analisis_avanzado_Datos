@@ -5,14 +5,15 @@ from m09_model_deployment import predict_price
 app = Flask(__name__)
 
 @app.route('/predict', methods=['GET'])
-def URLpredict():
+def PRICEpredict():
     return {
          
-        "Year:" : request.args.get(year),
-        "Mileage:" mileage,
-        "State:" state,
-        "Make:" make,
-        "Model:" model,
+        "Year" : request.args.get('year'),
+        "Mileage": request.args.get ('mileage'),
+        "State": request.args.get('state'),
+        "Make": request.args.get('make'),
+        "Model": request.args.get('model'),
+        
         "Forecats Price of Car": predict_price(request.args.get('year','mileage','state','make','model'))
         }, 200
 
