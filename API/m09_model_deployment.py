@@ -25,7 +25,7 @@ def predict_price(year,mileage,state,make,model):
     
     """list_ = ['Year','Mileage','Model_Silverado','Make_GMC','Model_Super','Make_Land','Make_Lexus','Model_F-1504WD','Make_BMW','Make_Mercedes-Benz','Model_Wrangler','Model_Tahoe4WD','Model_Suburban4WD','Model_Escalade','Make_Kia','Make_Ram','Model_Suburban2WD','Model_Tundra','Model_Tahoe2WD','Model_TahoeLT','Model_TerrainFWD','Model_Sierra','Model_FusionSE','Model_CorvetteCoupe','Make_Ford','Model_Grand','Model_FocusSE']"""
 
-    # Create features
+    # inputs
     forecast = pd.DataFrame(np.zeros((1,len(list_))),columns=list_)  
     
     forecast['Year'] = year
@@ -37,7 +37,7 @@ def predict_price(year,mileage,state,make,model):
     model_ = 'Model_' + model
     forecast['%s'%model_] = 1
 
-    # Make prediction
+    # make prediction
     p1 = clf.predict(forecast)
     p1 = str(p1)
 
