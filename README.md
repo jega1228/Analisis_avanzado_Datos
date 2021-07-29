@@ -105,3 +105,17 @@ https://www.kaggle.com/jpayne/852k-used-car-listings
 | --- | --- |
 | Notebook  | [P2 - Precio Vehículos Usados](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P2%20-%20API%20Precio%20Vehiculos%20Usados.ipynb)|
 
+
+### _____________________________________________________________________
+
+### P3 - Clasificación de género de películas
+
+Para el desarrollo del proyecto, se utilizó la base de datos de MOVIE GENRE CLASSIFICATION publicada en Kaggle. 
+
+Fuente: Kaggle 
+https://www.kaggle.com/c/miia4201-202019-p3-moviegenreclassification/overview
+
+| Item  | Elemento |
+| --- | --- |
+| Notebook  | [P3 - Clasificación de género de películas](https://github.com/jega1228/MAAD_Grupo_1/blob/feef779d6a121eb23513ab20fe87d9ce6a824968/P3-MovieGenrePrediction.ipynb)|
+
