@@ -122,4 +122,6 @@ https://www.kaggle.com/c/miia4201-202019-p3-moviegenreclassification/overview
 | Notebook  | [Stacking](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P3-MovieGenrePrediction-Stacking.ipynb)|
 | Notebook  | [Red Neuronal](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P3-MovieGenrePrediction-RedNeuronal.ipynb)|
 
+Competencia Kaggle
+https://www.kaggle.com/c/miia-4201-movie-genre-classification/leaderboard
 
