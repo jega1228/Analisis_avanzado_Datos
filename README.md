@@ -119,7 +119,7 @@ https://www.kaggle.com/c/miia4201-202019-p3-moviegenreclassification/overview
 | --- | --- | 
 | Notebook  | [Random Forest](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P3-MovieGenrePrediction-RandomForest.ipynb)|
 | Notebook  | [XGBoost](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P3-MovieGenrePrediction-XGB.ipynb)|
-| Notebook  | [Stacking](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P3-MovieGenrePrediction-RedNeuronal.ipynb)|
+| Notebook  | [Stacking](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P3-MovieGenrePrediction-Stacking.ipynb)|
 | Notebook  | [Red Neuronal](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P3-MovieGenrePrediction-RedNeuronal.ipynb)|
 |  | 
 | Documento | [Informe Final](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P3-MovieGenrePrediction-RedNeuronal.ipynb)|
