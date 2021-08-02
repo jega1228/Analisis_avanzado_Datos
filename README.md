@@ -125,5 +125,3 @@ https://www.kaggle.com/c/miia4201-202019-p3-moviegenreclassification/overview
 | Documento | [Informe Final](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P3-MovieGenrePrediction-RedNeuronal.ipynb)|
 
 
-
-
