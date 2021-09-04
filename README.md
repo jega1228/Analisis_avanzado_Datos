@@ -129,8 +129,6 @@ https://www.kaggle.com/c/miia-4201-movie-genre-classification/leaderboard
 ### TALLERES
 ### _____________________________________________________________________
 
-### TALLER 1 - Redes Neuronales 
-
 | Item  | Modelo | 
 | --- | --- | 
-| Notebook  | [Redes Neuronales](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P3-MovieGenrePrediction-RandomForest.ipynb)|
+| Taller 1  | [Redes Neuronales](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P3-MovieGenrePrediction-RandomForest.ipynb)|
