@@ -7,9 +7,7 @@ Repositorio creado para propósitos académicos por (Grupo 01):
 - Jaime Humberto Trujillo Perea - <ja.barinas@uniandes.edu.co>
 - Alexander Zapata Galindo - <a.zapata12@uniandes.edu.co>
 
-
-## CONTENIDO
-
+## CONTENIDO - PARTE 1 : DAVID ZARRUK
 ### _____________________________________________________________________
 ### EXERCISES
 ### _____________________________________________________________________
@@ -125,3 +123,14 @@ https://www.kaggle.com/c/miia4201-202019-p3-moviegenreclassification/overview
 Competencia Kaggle
 https://www.kaggle.com/c/miia-4201-movie-genre-classification/leaderboard
 
+
+## CONTENIDO - PARTE 2 : FABIÁN CASTIBLANCO
+### _____________________________________________________________________
+### TALLERES
+### _____________________________________________________________________
+
+### TALLER 1 - Redes Neuronales 
+
+| Item  | Modelo | 
+| --- | --- | 
+| Notebook  | [Redes Neuronales](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P3-MovieGenrePrediction-RandomForest.ipynb)|
