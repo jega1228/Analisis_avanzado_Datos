@@ -140,7 +140,7 @@ https://www.kaggle.com/c/miia-4201-movie-genre-classification/leaderboard
 ### PROYECTOS
 ### _____________________________________________________________________
 
-| Item  | Modelo | 
-| --- | --- | 
+| Item  | Modelo |  Fuente | 
+| --- | --- | -- |
 | Proyecto 1  | [Imágenes de rostros](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202%20-%20Imagenes.ipynb)| Fuente: http://vis-www.cs.umass.edu/lfw/ |
 
