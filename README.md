@@ -134,6 +134,7 @@ https://www.kaggle.com/c/miia-4201-movie-genre-classification/leaderboard
 | Item  | Modelo | 
 | --- | --- | 
 | Taller 1  | [Redes Neuronales](https://github.com/jega1228/MAAD_Grupo_1/blob/master/T1%20-%20Redes%20Neuronales-VF.ipynb)|
+| Taller 2  | [Categorical cross-entropy with Softmax activation]()|
 
 ### _____________________________________________________________________
 ### PROYECTOS
@@ -141,5 +142,5 @@ https://www.kaggle.com/c/miia-4201-movie-genre-classification/leaderboard
 
 | Item  | Modelo | 
 | --- | --- | 
-| Proyecto 1  | [Imágenes de rostros](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202.ipynb)|
+| Proyecto 1  | [Imágenes de rostros](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202%20-%20Imagenes.ipynb)|
 
