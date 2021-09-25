@@ -140,7 +140,16 @@ https://www.kaggle.com/c/miia-4201-movie-genre-classification/leaderboard
 ### PROYECTOS
 ### _____________________________________________________________________
 
-| Item  | Tema |  Fuente | 
-| --- | --- | -- |
-| Proyecto 1  | [Imágenes de rostros](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202%20-%20Imagenes.ipynb)| [Labeled Faces in the Wild](http://vis-www.cs.umass.edu/lfw/) |
+### PROYECTO 1 - Imágenes de rostros de personajes
+
+Fuente: Labeled Faces in the Wild
+http://vis-www.cs.umass.edu/lfw/
+
+| Item  | Modelo |  
+| --- | --- | 
+| Notebook  | [Logistic Regression](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202%20-%20Imagenes%20-%20Logistic%20Regression.ipynb)| 
+| Notebook  | [PCA](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202%20-%20Imagenes%20-%20PCA.ipynb)| 
+| Notebook  | [SVM](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202%20-%20Imagenes%20-%20SVM.ipynb)| 
+| Notebook  | [NN](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202%20-%20Imagenes%20-%20NN.ipynb)| 
+| Notebook  | [CNN](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202%20-%20Imagenes%20-%20CNN.ipynb)| 
 
