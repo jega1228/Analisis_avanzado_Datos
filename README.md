@@ -149,7 +149,7 @@ http://vis-www.cs.umass.edu/lfw/
 | --- | --- | 
 | Notebook  | [Logistic Regression](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202%20-%20Imagenes%20-%20Logistic%20Regression.ipynb)| 
 | Notebook  | [PCA](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202%20-%20Imagenes%20-%20PCA.ipynb)| 
-| Notebook  | [SVM](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202%20-%20Imagenes%20-%20SVM.ipynb)| 
-| Notebook  | [NN](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202%20-%20Imagenes%20-%20NN.ipynb)| 
-| Notebook  | [CNN](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202%20-%20Imagenes%20-%20CNN.ipynb)| 
+| Notebook  | [Support Vector Machine - SVM](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202%20-%20Imagenes%20-%20SVM.ipynb)| 
+| Notebook  | [Traditional Neural Netwok - NN](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202%20-%20Imagenes%20-%20NN.ipynb)| 
+| Notebook  | [Convolutional Neural Network - CNN](https://github.com/jega1228/MAAD_Grupo_1/blob/master/P1%20-%20MAAD%202%20-%20Imagenes%20-%20CNN.ipynb)| 
 
