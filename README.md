@@ -140,7 +140,7 @@ https://www.kaggle.com/c/miia-4201-movie-genre-classification/leaderboard
 ### PROYECTOS
 ### _____________________________________________________________________
 
-### PROYECTO 1 - Imágenes de rostros de personajes
+### PROYECTO 1 - Reconocimento de Imágenes de Rostros de Personajes
 
 Fuente: Labeled Faces in the Wild
 http://vis-www.cs.umass.edu/lfw/
