@@ -133,8 +133,12 @@ https://www.kaggle.com/c/miia-4201-movie-genre-classification/leaderboard
 
 | Item  | Tema | 
 | --- | --- | 
-| Taller 1  | [Redes Neuronales](https://github.com/jega1228/MAAD_Grupo_1/blob/master/T1%20-%20Redes%20Neuronales-VF.ipynb)|
+| Taller 1  | [Redes Neuronales Perceptrón Multicapa](https://github.com/jega1228/MAAD_Grupo_1/blob/master/T1%20-%20Redes%20Neuronales-VF.ipynb)|
 | Taller 2  | [Categorical cross-entropy with Softmax activation](https://github.com/jega1228/MAAD_Grupo_1/blob/master/T2%20-%20MAAD%202%20-%20CrossEntropy.pdf)|
+| Taller 3  | [Redes Neuronales Convolucionales](https://github.com/jega1228/MAAD_Grupo_1/blob/master/T3_MAAD-2_CNN.ipynb)|
+
+
+
 
 ### _____________________________________________________________________
 ### PROYECTOS
